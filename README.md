@@ -2,6 +2,8 @@
 
 ## Project info
 
+## Deployed in Versel (Click this link to view the output)
+https://medi-care-app-inky.vercel.app/
 
 ## How can I edit this code?
 
